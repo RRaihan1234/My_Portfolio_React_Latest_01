@@ -309,7 +309,7 @@ nav {
 
 /* 3 Banner */
 .banner_wrapper {
-    height:100vh;
+    /* height:100vh; */
     margin-top: 0;
     padding-top: 8rem;
     z-index: 1;
