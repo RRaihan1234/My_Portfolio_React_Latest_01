@@ -282,8 +282,5 @@
         font-size: 0.8rem;
     }
 
-    /* top banner */
-    .banner_wrapper .banner-content h2::after {
-        left: 34%;
-    }
+    
 }
