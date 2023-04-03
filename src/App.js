@@ -521,7 +521,7 @@ function App() {
     <section id="about" className="about_wrapper bg-black">
         <div className="container">
             <div className="row">
-                <div className="col-sm-12 text-left pt-5">
+                <div className="col-sm-12 text-left">
                     <br /><br /><br />
                     <h2 className="bg-secondary text-center">About Me</h2>
                     <p className="p1">
